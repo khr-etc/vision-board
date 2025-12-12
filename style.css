@@ -5,7 +5,7 @@
     padding: 0 4px;
 }
 
-/* Two columns that sit next to each other */
+/* Three columns that sit next to each other */
 .column {
     flex: 25%;
     padding: 0 4px;
@@ -19,4 +19,5 @@
 
 img {
     width: 100%;
+    gap: 8px;
 }
