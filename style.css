@@ -21,3 +21,12 @@ img {
     width: 100%;
     gap: 8px;
 }
+
+.heart {
+    color:#e25555; 
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
